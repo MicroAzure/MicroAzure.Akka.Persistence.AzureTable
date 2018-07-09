@@ -1,0 +1,1 @@
+# MicroAzure.Akka.Persistence.AzureTable
